@@ -244,4 +244,4 @@ This repository serves as the official landing page for Prince of Persia: Warrio
 **Get the most recent version of Prince of Persia: Warrior Within today!**
 
 ---
-**Last updated:** 2026-10-23 21:53:40 UTC
+**Last updated:** 2026-10-24 00:20:33 UTC
